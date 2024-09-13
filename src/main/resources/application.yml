@@ -1,0 +1,9 @@
+logging:
+  level:
+    com:
+      jfjara:
+        qr: DEBUG
+
+app:
+  qr:
+    template: https://github.com/jfjara
